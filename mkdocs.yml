@@ -1,0 +1,8 @@
+site_name: "test-frontend"
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
